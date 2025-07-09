@@ -6,7 +6,7 @@ This guide covers my personal method to get PhotoScape_X_Pro to run properly wit
 Tested on Debian 12.8
 
 1. install wine from https://www.winehq.org/
-2. download PhotoScapeXPro from the source you prefer (i'm not responsible for pirated copies distribtio, sorr)
+2. download PhotoScapeXPro from the source you prefer (i'm not responsible for pirated copies distribtio, sorry)
 3. download WinRAR (https://www.win-rar.com/download.html?&L=0)
 4. install winetricks (sudo apt install winetricks)
 5. install winrar by running the setup executable (wine [exectable_name.exe]) Make sure you install WinRAR in partition Z:\ for easy access
